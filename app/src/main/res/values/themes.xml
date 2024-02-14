@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.JewelsBoxEmployee" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/primary</item>
+
+        <item name="fontFamily">@font/nunito_sans</item>
+
+    </style>
+
+    <style name="Theme.JewelsBoxEmployee" parent="Base.Theme.JewelsBoxEmployee" />
+
+
+    <style name="circle"><item name="cornerSize">50%</item></style>
+    <style name="dp6"><item name="cornerSize">6dp</item></style>
+
+</resources>

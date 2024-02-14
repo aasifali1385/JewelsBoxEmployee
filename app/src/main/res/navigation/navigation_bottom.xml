@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_bottom"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.jewelsbox.employee.home.HomeFragment"
+        android:label="fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_addlead"
+        android:name="com.jewelsbox.employee.addLead.AddLeadFragment"
+        android:label="fragment_add_lead" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.jewelsbox.employee.profile.ProfileFragment"
+        android:label="fragment_profile" />
+
+
+</navigation>

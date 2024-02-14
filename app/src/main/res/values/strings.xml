@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Jewels Box Employee</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="description">Description</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="enter_employee_id">Enter Employee Id</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+
+
+    <string name="title1">Visitor</string>
+    <string name="title2">Jewels Box members</string>
+    <string name="title3">Membership renewal </string>
+    <string name="title4">Push new lead</string>
+
+    <string name="desc1">Search visitor or create new visitor entry with basic info, anniversary and interested product detail.</string>
+    <string name="desc2">Search Jewels Box existing member from the list.</string>
+    <string name="desc3">Renew existing memberships of customers.</string>
+    <string name="desc4">Quick add lead form.</string>
+
+    <string name="viewMore1">Check visitor</string>
+    <string name="viewMore2">Search member</string>
+    <string name="viewMore3">Renew membership</string>
+    <string name="viewMore4">Add lead</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="profile_heads">Full Name:\nID Number:\nMobile Number:\nEmail ID:\nLocation:</string>
+    <string name="add_new_visitor"><u>Add new visitor</u></string>
+    <string name="loading">loading...</string>
+    <string name="logout">Logout</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="search">Search</string>
+    <string name="didn_t_find_the_visitor_data">Didn\'t find the visitor data</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
